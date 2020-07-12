@@ -1,0 +1,64 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$180000$sWHQyh4wlQHV$l4y8SGf4tCAKO4mPEcAhSTW45waqxtrW3yyuh/kD11Q=",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "admin@localhost",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2020-07-13T09:31:06.839Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 10,
+    "fields": {
+      "username": "danny_smith",
+      "first_name": "Danny",
+      "last_name": "Smith"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 11,
+    "fields": {
+      "username": "terry_jones",
+      "first_name": "Terry",
+      "last_name": "Jones"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 12,
+    "fields": {
+      "username": "walter_peters",
+      "first_name": "Walter",
+      "last_name": "Peters"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 13,
+    "fields": {
+      "username": "kelly_stells",
+      "first_name": "Kelly",
+      "last_name": "Stells"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 14,
+    "fields": {
+      "username": "mindy_dulles",
+      "first_name": "Mindy",
+      "last_name": "Dulles"
+    }
+  }
+]

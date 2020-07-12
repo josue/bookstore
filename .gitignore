@@ -1,0 +1,4 @@
+server/tmp
+server/db.sqlite3
+__pycache__
+.vscode

@@ -1,0 +1,182 @@
+[
+  {
+    "model": "bookstore.book",
+    "pk": 1,
+    "fields": {
+      "title": "Breakdown",
+      "author": "Othello Casson",
+      "isbn": "132240704-5"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 2,
+    "fields": {
+      "title": "Antonio Gaudí",
+      "author": "Leigh Speer",
+      "isbn": "088331418-5"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 3,
+    "fields": {
+      "title": "Crime Zone",
+      "author": "Alejandrina Wringe",
+      "isbn": "829534093-X"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 4,
+    "fields": {
+      "title": "Place at the Table, A",
+      "author": "Carlyn Sheering",
+      "isbn": "574866046-6"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 5,
+    "fields": {
+      "title": "Farmer's Daughter, The",
+      "author": "Jed Gowdie",
+      "isbn": "996447045-2"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 6,
+    "fields": {
+      "title": "Innocents, The",
+      "author": "Tyrone Braunter",
+      "isbn": "180890514-8"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 7,
+    "fields": {
+      "title": "Playing for Time",
+      "author": "Arley Polding",
+      "isbn": "739797548-8"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 8,
+    "fields": {
+      "title": "911 in Plane Site",
+      "author": "Tobe Blayd",
+      "isbn": "816903760-3"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 9,
+    "fields": {
+      "title": "Trumpet of the Swan, The",
+      "author": "Tatiania Godrich",
+      "isbn": "566455475-4"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 10,
+    "fields": {
+      "title": "12th & Delaware",
+      "author": "Ram Barnewille",
+      "isbn": "847927352-6"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 11,
+    "fields": {
+      "title": "There Was a Father (Chichi ariki)",
+      "author": "Ivor Dunkley",
+      "isbn": "358488594-9"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 12,
+    "fields": {
+      "title": "Things Change",
+      "author": "Lavena Erie",
+      "isbn": "171109541-9"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 13,
+    "fields": {
+      "title": "Beautiful Lies (De vrais mensonges) (Full Treatment)",
+      "author": "Marlow Thoma",
+      "isbn": "682692761-6"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 14,
+    "fields": {
+      "title": "From the Clouds to the Resistance (Dalla nube alla resistenza)",
+      "author": "Neddy Tulloch",
+      "isbn": "047388072-5"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 15,
+    "fields": {
+      "title": "25 Watts",
+      "author": "Pryce Sebastian",
+      "isbn": "014469630-4"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 16,
+    "fields": {
+      "title": "Unleashed (Danny the Dog)",
+      "author": "Colby Boswood",
+      "isbn": "973946111-5"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 17,
+    "fields": {
+      "title": "Level Five",
+      "author": "Shel Skoof",
+      "isbn": "363772275-5"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 18,
+    "fields": {
+      "title": "Grand Budapest Hotel, The",
+      "author": "Deloris Pachmann",
+      "isbn": "715801423-1"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 19,
+    "fields": {
+      "title": "5 Centimeters per Second (Byôsoku 5 senchimêtoru)",
+      "author": "Helen-elizabeth Kippax",
+      "isbn": "815151486-8"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 20,
+    "fields": {
+      "title": "And Now the Screaming Starts!",
+      "author": "Waverley Copnar",
+      "isbn": "751881369-6"
+    }
+  }
+]
