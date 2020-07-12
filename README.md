@@ -14,7 +14,7 @@ Makefile targets:
 
 ## Bookstore API
 
-URL: `http://localhost:8000`
+API URL: `http://localhost:8000`
 
 A bookstore API service with endpoints:
 
@@ -56,7 +56,7 @@ curl -X GET 'http://127.0.0.1:8000/books/
 
 Book Details title, author, and isbn:
 ```bash
-curl -x GET 'http://127.0.0.1:8000/books/11'
+curl -X GET 'http://127.0.0.1:8000/books/11'
 ```
 
 Users rented books past and current *(Order by due date)*:
@@ -68,3 +68,10 @@ List of books in a library and their start:
 ```bash
 curl -X GET 'http://127.0.0.1:8000/library/4/books/'
 ```
+
+----
+
+#### Django Admin Panel:
+- URL: `http://localhost:8000/admin`
+- Username: `admin`
+- Password: `testpass`
